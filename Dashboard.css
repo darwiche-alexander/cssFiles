@@ -29,6 +29,7 @@ body{
 
 .wind-speed-row .Title{
   border-bottom: 1px solid rgb(216, 216, 216);
+  font-size: .75rem;
 }
 
 .wind-speed-row .Title h3{
