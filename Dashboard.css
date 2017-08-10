@@ -7,7 +7,7 @@ body{
 }
 
 .banner {
-    height: 80px;
+    height: 75px;
     margin: 0px -10px 10px;
     background-color: rgb(66, 196, 247);
     border-radius: 2px;
@@ -18,26 +18,23 @@ body{
     padding-top: 10px;
     margin-left: 2%;
     display: inline-block;
-    font-size: 100%;
 }
 
 .banner Img{
     position: relative;
     float: right;
     right: 10px;
-    height: 80px;
+    height: 75px;
 }
 
 .wind-speed-row .Title{
   border-bottom: 1px solid rgb(216, 216, 216);
-  border-top: 1px solid rgb(216, 216, 216);
 }
 
 .wind-speed-row .Title h3{
     font-size: 1.75rem;
     color: rgb(66, 196, 247);
     border-bottom: rgb(216, 216, 216);
-    border-top: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
     margin-bottom: 3px;
