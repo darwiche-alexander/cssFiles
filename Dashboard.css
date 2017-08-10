@@ -1,5 +1,5 @@
 body{
-    font-size: 1.5em;
+    font-size: 2em;
     line-height: 1.6;
     font-weight: 400;
     font-family: Raleway,HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -7,7 +7,7 @@ body{
 }
 
 .banner {
-    height: 100px;
+    height: 80px;
     margin: 0px -10px 10px;
     background-color: rgb(66, 196, 247);
     border-radius: 2px;
