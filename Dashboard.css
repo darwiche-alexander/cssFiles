@@ -7,7 +7,7 @@ body{
 }
 
 .banner {
-    height: 75px;
+    height: 100px;
     margin: 0px -10px 10px;
     background-color: rgb(66, 196, 247);
     border-radius: 2px;
@@ -18,6 +18,7 @@ body{
     padding-top: 10px;
     margin-left: 2%;
     display: inline-block;
+    font-size: 1.75rem;
 }
 
 .banner Img{
@@ -29,7 +30,7 @@ body{
 
 .wind-speed-row .Title{
   border-bottom: 1px solid rgb(216, 216, 216);
-  font-size: .75rem;
+  font-size: 1rem;
 }
 
 .wind-speed-row .Title h3{
