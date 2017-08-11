@@ -6,6 +6,10 @@ body{
     color: #222;
 }
 
+.boxed {
+  border: 1px solid green ;
+}
+
 .banner {
     height: 100px;
     margin: 0px -10px 10px;
