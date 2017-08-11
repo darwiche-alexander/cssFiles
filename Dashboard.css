@@ -6,19 +6,19 @@ body{
     color: #222;
 }
 
-.boxed {
+.boxed1 {
   border: 10px solid black ;
 }
 
 
-.banner1 {
+.banner2 {
     height: 100px;
     margin: 0px -10px 10px;
     background-color: rgb(66, 196, 247);
     border-radius: 2px;
 }
 
-.banner1 h2{
+.banner2 h2{
     color: white;
     padding-top: 10px;
     margin-left: 2%;
@@ -26,7 +26,7 @@ body{
     font-size: 2rem;
 }
 
-.banner1 Img{
+.banner2 Img{
     position: relative;
     float: right;
     right: 10px;
